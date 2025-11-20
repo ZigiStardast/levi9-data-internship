@@ -1,0 +1,2 @@
+name,time_nano,time_date,location_latitude,location_longitude,location_name,weather_temperature,weather_feelsLike,weather_pressure,weather_humidity,weather_dewPoint,weather_clouds,weather_windSpeed,weather_windDeg
+"1248 - Tătărași Sud, Iași, Romania",1648771200000000000,2022-04-01 02:00:00,47.154,27.614,"Tătărași Sud, Iași, Romania",16.54,15.61,995,52,6.66,0,3.13,120

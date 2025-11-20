@@ -1,0 +1,51 @@
+.DS_Store
+.Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+.env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+coverage.xml
+.hypothesis/
+.tox/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs / editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.ropeproject/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
